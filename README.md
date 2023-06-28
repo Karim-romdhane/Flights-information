@@ -1,2 +1,2 @@
-# Timatic
-Tool to verify passengers travel document requirements for their destination and any transit points.
+# Flights-information
+Tool to check all informations about worldwide flights.
